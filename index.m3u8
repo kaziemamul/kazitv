@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:764
-#EXTINF:6,
-https://kaziemamulemu.shortcm.li/kazitv/anandatv.m3u8
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+http://localhost/media/stream/stream-1.ts
+#EXTINF:10,
+http://localhost/media/stream/stream-2.ts
+#EXTINF:10,
+http://localhost/media/stream/stream-3.ts
+#EXT-X-ENDLIST
